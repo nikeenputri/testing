@@ -1,3 +1,4 @@
 # How to Run
-#### npm install
-#### npm start
+##### Open Terminal and run :
+`npm install`</br>
+`npm start`
