@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-youtube",
+  "version": "1.0.0",
+  "description": "Basic automation testing, Youtube automation testing using Puppeteer and Node JS",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^10.2.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-adblocker": "^2.11.11",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "puppeteer-extra-plugin-stealth": "^2.7.8",
+    "puppeteer-screen-recorder": "^1.1.11",
+    "random-useragent": "^0.5.0",
+    "user-agents": "^1.0.751"
+  }
+}
